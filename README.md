@@ -19,10 +19,10 @@ EXPLORE and HAVE SOME FUN
 
 ## Screenshot
 
-![Home Theme](https://github.com/joao82/business-card/blob/main/src/assets/images/screenshot1.png)
-![Searched Theme](https://github.com/joao82/business-card/blob/main/src/assets/images/screenshot1.png)
-![Instructions Theme](https://github.com/joao82/business-card/blob/main/src/assets/images/screenshot2.png)
-![ingredients Theme](https://github.com/joao82/business-card/blob/main/src/assets/images/screenshot2.png)
+![Home Theme](https://github.com/joao82/recipes/blob/main/src/assets/images/screenshot1.png)
+![Searched Theme](https://github.com/joao82/recipes/blob/main/src/assets/images/screenshot2.png)
+![Instructions Theme](https://github.com/joao82/recipes/blob/main/src/assets/images/Screenshot3.png)
+![ingredients Theme](https://github.com/joao82/recipes/blob/main/src/assets/images/Screenshot4.png)
 
 ## Links
 
