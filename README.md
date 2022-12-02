@@ -26,7 +26,7 @@ EXPLORE and HAVE SOME FUN
 
 ## Links
 
-- Live Site URL: [@Netlify](https://recipes.netlify.app)
+- Live Site URL: [@Netlify](https://recipes.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/24bb0dbc-6ad6-47cb-b09a-c60151427d77/deploy-status)](https://app.netlify.com/sites/rcipes/deploys)
 - Solution URL: [@Github](https://github.com/joao82/recipes)
 
 ## Getting Started with Create React App
